@@ -1,0 +1,16 @@
+size(600,600);
+fill(100,200,100,80);
+fill(250,98,119,80);
+ellipse(300,200,250,250);
+fill(98,203,250,80);
+ellipse(220,330,250,250);
+fill(110,250,98,80);
+ellipse(380,330,250,250);
+textSize(20);
+fill(0,0,0);
+text("cool",280,180);
+fill(0,0,0);
+text("smart",160,330);
+text("athletic",380,330);
+textSize(15);
+text("varnit",280,310);
